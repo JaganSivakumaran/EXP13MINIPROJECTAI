@@ -106,7 +106,6 @@ axs[1].legend()
 plt.tight_layout()
 plt.show()
 ### Output:
-https://files.oaiusercontent.com/file-r4g0X5mLpm7OykrIHwORDLpv?se=2024-11-11T10%3A34%3A13Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6cf5e952-ddee-4be1-9c41-bbb5e2ce5db6&sig=kxDTzOk0FsLOxDgXztZB3M/G4zAgZvFKBgVIsQ8E8Jo%3D
-https://files.oaiusercontent.com/file-r4g0X5mLpm7OykrIHwORDLpv?se=2024-11-11T10%3A34%3A13Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6cf5e952-ddee-4be1-9c41-bbb5e2ce5db6&sig=kxDTzOk0FsLOxDgXztZB3M/G4zAgZvFKBgVIsQ8E8Jo%3D
+"C:\Users\jagan\OneDrive\Desktop\6cf5e952-ddee-4be1-9c41-bbb5e2ce5db6"
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
